@@ -1,4 +1,4 @@
-# Christopher Makombe - Software Developer and Mentor At The Code Life,Founder  of SwiftlyBox.com and Co-Founder of Magnasite.co.za
+#I am a software developer and mentor at The Code Life, as well as the founder of SwiftlyBox.com and co-founder of Magnasite.co.za.
 
 ![header](https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif)
 
